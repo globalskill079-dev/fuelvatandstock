@@ -1,0 +1,8 @@
+{
+  "name": "Nepal Fuel VAT & Stock Calculator",
+  "description": "Nepal Oil Corporation (NOC) fuel stock reconciliation and 13% VAT calculator for petrol pumps with multi-station management, Excel sales import, and NOC purchase registers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
